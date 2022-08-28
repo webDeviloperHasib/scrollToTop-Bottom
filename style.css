@@ -1,0 +1,28 @@
+body{
+    height: 2000px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn{
+    position: absolute;
+    bottom: 40px;
+    right: 30px;
+    border: none;
+    padding: 18px 29px;
+    background-color: rebeccapurple;
+    color: white;
+    border-radius: 12px;
+    cursor: pointer;
+    position: fixed;
+    display: none;
+    transition: 2s;
+}
+
+h1{
+    padding: 30px;
+    background-color: black;
+    color: wheat;
+    
+}
